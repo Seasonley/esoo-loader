@@ -1,0 +1,30 @@
+{
+  "name": "esoo-loader",
+  "version": "1.0.0",
+  "description": "ES operator overload.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "esoo-babel-plugin": "^1.0.0",
+    "@babel/core": "^7.4.5"
+  },
+  "devDependencies": {
+    "mathjs": "^6.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seasonley/esoo-loader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seasonley/esoo-loader/issues"
+  },
+  "homepage": "https://github.com/Seasonley/esoo-loader#readme"
+}
